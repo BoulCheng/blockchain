@@ -10,6 +10,7 @@
   <modules>
     <module>part-one</module>
     <module>bitcoin</module>
+      <module>ethereum</module>
   </modules>
   <packaging>pom</packaging>
 
